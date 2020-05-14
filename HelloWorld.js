@@ -17,7 +17,6 @@ function askQuestion(question){
 
 async function Program(){
     // Your Code Goes Here...
-    let username = await askQuestion
     let username = await askQuestion("Your name?");
 let HOW_ARE_YOU = await askQuestion("How are you?");
 let question = await askQuestion("That might be good?");
